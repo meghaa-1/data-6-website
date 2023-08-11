@@ -8,7 +8,9 @@ A safe space to talk and learn about all things related to, slightly related to,
 <br>
 **Speak Now** + **1989** > Folklore + Red
 <br>
+ <img src="./rogue.jpg" style="width:50%; margin:auto; display:block">
 <br>
+ <img src="./small.jpg" style="width:50%; margin:auto; display:block">
 <br>
  <img src="./Frodo & Sam.jpg" style="width:50%; margin:auto; display:block">
 <br>

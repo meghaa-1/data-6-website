@@ -9,6 +9,8 @@ A safe space to talk and learn about all things related to, slightly related to,
 **Speak Now** + **1989** > Folklore + Red
 <br>
 <br>
- <img src="./MUSA.JPG" style="width:50%; margin:auto; display:block">
+ <img src="./MUSA.jpg" style="width:50%; margin:auto; display:block">
 <br>
- <img src="./Frodo & Sam.JPG" style="width:50%; margin:auto; display:block">
+ <img src="./Frodo & Sam.jpg" style="width:50%; margin:auto; display:block">
+<br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zP58QizBGgg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

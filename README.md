@@ -10,3 +10,5 @@ A safe space to talk and learn about all things related to, slightly related to,
 <br>
 <br>
  <img src="./MUSA.JPG" style="width:50%; margin:auto; display:block">
+<br>
+ <img src="./Frodo & Sam.JPG" style="width:50%; margin:auto; display:block">
